@@ -1,0 +1,7 @@
+{
+  "name": "Verit",
+  "description": "An integrated AI life-management system that analyzes tasks, food, and mood to provide structured action plans and flexible timers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
